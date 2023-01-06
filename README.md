@@ -22,3 +22,9 @@ it works by replying the alternative link to the message.
 - piped for youtube
 - libreddit for reddit
 - teddit for reddit
+
+
+### Deploy To Render (Paid)
+
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?)
+
