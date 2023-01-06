@@ -1,0 +1,10 @@
+services:
+  - type: worker
+    name: telelibrator
+    env: python
+    startCommand: python telelibrator.py
+    repo: https://github.com/sholoomail/telelibrator.git
+    branch: main
+    envVars:
+      - key: BOT_TOKEN 
+        sync: false
