@@ -1,28 +1,28 @@
 # config file for bot. rename this to "config.py"
 
 # paste bot token here
-bot_token = ""  # "something:something"
+bot_token = "5110671020:AAFgnwlOaVcE0uG48kgNiRz0hxzMnziVjDQ"  # "something:something"
 
 # replying mode
 # can be one of these: substitute, links
 reply_mode = "substitute"
 
 alternative_services_links = {
-    "nitter": [
+    "nitter": [https://nitter.kavin.rocks/
     ],
     "bibliogram_userpage": [
     ],
     "bibliogram_post": [
     ],
-    "invidious": [
+    "invidious": [https://invidious.flokinet.to/
     ],
-    "piped": [
+    "piped": [https://piped.moomoo.me/
     ],
-    "libreddit": [
+    "libreddit": [https://libreddit.domain.glass/
     ],
-    "teddit": [
+    "teddit": [https://teddit.namazso.eu/
     ],
-    "quetre": [
+    "quetre": [https://quetre.pussthecat.org/
 
     ],
 
