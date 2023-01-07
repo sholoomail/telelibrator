@@ -2,6 +2,7 @@ services:
   - type: worker
     name: telelibrator
     env: python
+    buildCommand: pip install -r requirements.txt
     startCommand: python telelibrator.py
     repo: https://github.com/sholoomail/telelibrator.git
     branch: main
