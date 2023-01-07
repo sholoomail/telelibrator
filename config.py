@@ -8,21 +8,21 @@ bot_token = "5110671020:AAFgnwlOaVcE0uG48kgNiRz0hxzMnziVjDQ"  # "something:somet
 reply_mode = "substitute"
 
 alternative_services_links = {
-    "nitter": [https://nitter.kavin.rocks/
+    "nitter": [
     ],
     "bibliogram_userpage": [
     ],
     "bibliogram_post": [
     ],
-    "invidious": [https://invidious.flokinet.to/
+    "invidious": [
     ],
-    "piped": [https://piped.moomoo.me/
+    "piped": [
     ],
-    "libreddit": [https://libreddit.domain.glass/
+    "libreddit": [
     ],
-    "teddit": [https://teddit.namazso.eu/
+    "teddit": [
     ],
-    "quetre": [https://quetre.pussthecat.org/
+    "quetre": [
 
     ],
 
