@@ -12,7 +12,7 @@ json_data = requests.get(link).json()
 
 for sevice_name in alternative_services_links:
     if sevice_name in json_data:
-        alternative_services_links[sevice_name] = json_data[sevice_name]["normal"]
+        alternative_services_links[sevice_name] = json_data[sevice_name]]
 
 # print list in python syntax.
 print("alternative_services_links =")
